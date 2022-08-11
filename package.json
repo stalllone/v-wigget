@@ -16,7 +16,8 @@
 		"build:css": "npx gulp sass",
 		"lint": "vue-cli-service lint",
 		"docs:dev": "vuepress dev docs",
-		"docs:build": "vuepress build docs"
+		"docs:build": "vuepress build docs",
+		"deploy": "bash deploy.sh"
 	},
 	"dependencies": {
 		"core-js": "^3.8.3",

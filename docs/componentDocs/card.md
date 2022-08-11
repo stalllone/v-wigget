@@ -2,7 +2,7 @@
 卡片组件
 
 ### 示例:
-<m-card imgSrc="/card3.jpg" summary="0到1快速构建自己的后台管理系统"></m-card>
+<m-card imgSrc="/v-wigget//card3.jpg" summary="0到1快速构建自己的后台管理系统"></m-card>
 
 ### 代码
 ```html
